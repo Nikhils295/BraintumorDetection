@@ -1,5 +1,5 @@
-Brain Tumor Detection using CNN: Achieving 96% Accuracy with TensorFlow😎🔐
-Experience the power of deep learning with our Kaggle repository! We present a comprehensive implementation of a brain tumor detection model using Convolutional Neural Networks (CNNs) in TensorFlow. Achieving an impressive accuracy of 96%, our code showcases the following steps:🔥🧠
+Brain Tumor Detection using CNN: Achieving 96% Accuracy with TensorFlow
+Experience the power of deep learning with our Kaggle repository! We present a comprehensive implementation of a brain tumor detection model using Convolutional Neural Networks (CNNs) in TensorFlow. Achieving an impressive accuracy of 96%, our code showcases the following steps:
 1. Importing Essential Libraries: ✅
 Start by importing necessary libraries for data manipulation, visualization, and model construction with TensorFlow.
 
